@@ -1,5 +1,5 @@
 # Slot
-slot machine for SINGETUsai
+slot machine for SINGETUsai  
 おそらく
 - もとからあったもの
 - 本番で動かしたもの
