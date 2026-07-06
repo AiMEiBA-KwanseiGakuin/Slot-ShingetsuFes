@@ -1,5 +1,14 @@
 # Slot
-slot machine for SINGETUsai  
+slot machine for SHINGETSUsai  
+
+とりあえず作り直すぞの会  
+機能追加:  
+- レバー
+- 7セグLED with PCA9685
+- コイン検知
+- 役抽選？
+
+---
 おそらく
 - もとからあったもの
 - 本番で動かしたもの
