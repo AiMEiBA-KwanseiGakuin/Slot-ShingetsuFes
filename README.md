@@ -4,7 +4,8 @@ slot machine for SHINGETSUsai
 とりあえず作り直すぞの会  
 機能追加:  
 - レバー
-- 7セグLED with PCA9685
+- 7セグLED with PCA9685  
+  [これ](https://github.com/Tomoooji/pca9685-7seg)
 - コイン検知
 - 役抽選？
 
