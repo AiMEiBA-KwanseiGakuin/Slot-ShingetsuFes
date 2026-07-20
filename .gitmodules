@@ -1,3 +1,0 @@
-[submodule "Slot/Arduino/libralies"]
-	path = Arduino/temp/libralies
-	url = https://github.com/Tomoooji/pca9685-7seg
